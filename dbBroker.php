@@ -3,7 +3,7 @@
      $user = 'root';
      $password = '';
      $server = 'localhost';
-     $database = 'benu';
+     $database = 'apoteke';
 
 
     $konekcija = new mysqli($server,$user,$password,$database);
